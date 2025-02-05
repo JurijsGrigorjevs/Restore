@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\API.csproj": {}
+    "d:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\API.csproj": {
+    "d:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\API.csproj",
+        "projectUniqueName": "d:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\API.csproj",
+        "projectPath": "d:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Yurij\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\obj\\",
+        "outputPath": "d:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

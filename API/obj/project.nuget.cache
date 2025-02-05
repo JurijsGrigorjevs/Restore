@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wN5h++P72Sc=",
+  "dgSpecHash": "IC1CvDXlJbY=",
   "success": true,
-  "projectFilePath": "D:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\API.csproj",
+  "projectFilePath": "d:\\Learn to build an e-commerce store with .Net, React & Redux\\Restore\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yurij\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Yurij\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
